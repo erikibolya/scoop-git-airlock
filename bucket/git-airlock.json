@@ -1,12 +1,12 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Push and merge pull requests across a network air gap",
   "homepage": "https://github.com/erikibolya/git-airlock",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/erikibolya/git-airlock/releases/download/v1.6.0/airlock-windows-amd64.zip",
-      "hash": "bafec59d8dc92c2b2123616e560551db1bbe494185494299df87e8d0a64b7712"
+      "url": "https://github.com/erikibolya/git-airlock/releases/download/v1.6.1/airlock-windows-amd64.zip",
+      "hash": "81194d8338e7198d4a43e26b06e708a20f1dc56b2093513a1a10cde84ec53d9f"
     }
   },
   "bin": "airlock.exe",
